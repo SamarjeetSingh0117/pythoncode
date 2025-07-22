@@ -1,1 +1,1 @@
-print("this is to check auto build through jenkins")
+print("this is to check jenkins")
